@@ -4,7 +4,8 @@ select pep_antenapedia, resid 1-16
 select pep_flag, resid 17-24
 select pep_bak, resid 25-46
 
-set_color c_pep_antenapedia, [25, 114, 120]
+#set_color c_pep_antenapedia, [25, 114, 120]
+set_color c_pep_antenapedia, [0, 136, 204]
 set_color c_pep_flag, [226, 47, 47]
 set_color c_pep_bak, [112, 183, 126]
 
